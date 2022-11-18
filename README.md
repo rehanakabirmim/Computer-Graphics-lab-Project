@@ -12,5 +12,20 @@ The <GL/glut.h> header includes the necessary graphical functions of OpenGL, whi
 		
 Along with the main function, there are 8 more user-defined functions within the codebase. In this project,we were using static & dynamic both method .
 #Result:
+![image](https://user-images.githubusercontent.com/115262221/202767405-7f349507-22cc-4e9f-afbe-27cfc79e7005.png)
+
  ![315534378_1168410940734819_4507260402085594745_n](https://user-images.githubusercontent.com/115262221/202764458-4d443f36-75da-4c54-b938-60c261c2f8d9.png)
+ ![image](https://user-images.githubusercontent.com/115262221/202767469-e72c5ed0-e3c4-4318-b76e-0e5050476def.png)
+
+ 
 ![image](https://user-images.githubusercontent.com/115262221/202764565-3ba7569b-6f2a-4484-b02c-1e690493bc77.png)
+
+#Future Work: 
+In future, we will be adding some features in this project.. Like rain,compound, gate using mesh etc.
+
+
+#Conclusion: 
+In the beginning of the project, we learned the basics of OpenGL.
+Then we drawing the different scenarios using OpenGL's functions & methods and we're tried our best to bring out the best output of it.
+
+
